@@ -5,10 +5,10 @@ remediation actions to help improve your code.
 
 Quality Standards
 
-Complexity
-Dublications
-Security
-Code Coverage
+Complexity,
+Duplications,
+Security,
+Code Coverage and 
 Relaibility / Maintainability 
 
 
